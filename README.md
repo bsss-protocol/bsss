@@ -1,4 +1,4 @@
-## Join Us: Build the Market's Immune System
+## Join Us: Build the Market's Stable System (Black Swan Stable System)
 
 We are not just building another DeFi protocol. We are architecting a stability primitive for the entire ecosystem—a public good. If the mission to tame volatility and build a more resilient financial future resonates with you, read on.
 
