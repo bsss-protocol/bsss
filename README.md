@@ -1,8 +1,77 @@
 ## Join Us: Build the Market's Immune System
 
-We are on a mission to build **BSSS (Black Swan Stable System)**, an open-source, decentralized stability primitive for the entire crypto ecosystem. This is not just another protocol—it's an attempt to create a critical piece of public infrastructure that makes the market more resilient for everyone.
+We are not just building another DeFi protocol. We are architecting a stability primitive for the entire ecosystem—a public good. If the mission to tame volatility and build a more resilient financial future resonates with you, read on.
 
-We are building in the open, from day one. If you are driven by solving hard problems in DeFi, care about systemic risk, and believe in the power of community-owned public goods, we invite you to join us in this foundational stage.
+### 🚀 Why Join BSSS at This Moment?
+This is the ground floor. You will be a foundational builder, not just an employee. Here’s what’s unique:
+
+* **Define the Core:** Shape the architecture of a first-of-its-kind stability protocol from the first line of code.
+* **Mission-Driven Work:** Solve one of the most critical problems in crypto: systemic fragility.
+* **Real Ownership:** Earn significant, vested protocol tokens. You're building what you (and the community) will own.
+* **Build in Public:** We operate on principles of radical transparency and open collaboration from day one.
+
+We are moving fast. We have a clear vision (see our [Whitepaper](#)), a structured plan, and an initial codebase. Now, we need exceptional builders to turn it into reality.
+
+### 🛠 Open Roles: Foundational Builders Wanted
+We are looking for our first few core contributors who can wear multiple hats and thrive in zero-to-one environments.
+
+#### **Protocol Engineer (DeFi/Solidity)**
+**Your Mission:** Architect and secure the heart of the BSSS protocol—its smart contracts.
+* **You will:**
+  * Design and implement core contracts (Vaults, Defense Line Manager, Stability Coefficient Calculator).
+  * Build a robust development framework with extensive testing, simulation, and deployment pipelines.
+  * Research and integrate with oracle systems and other DeFi primitives.
+  * Set the gold standard for security and gas efficiency from the outset.
+* **We look for:**
+  * Deep expertise in Solidity and the EVM.
+  * Experience with DeFi protocol logic, security pitfalls, and testing frameworks (Foundry/Hardhat).
+  * A security-first mindset and a passion for clean, auditable code.
+  * Ability to work autonomously and make foundational technical decisions.
+
+#### **Full-Stack Engineer (Frontend/Web3)**
+**Your Mission:** Create the intuitive bridge between users and the complex protocol—making stability accessible.
+* **You will:**
+  * Develop our interactive Concept Verification Demo and the future main dApp.
+  * Implement seamless Web3 interactions (wallet connection, transaction flows, real-time state updates).
+  * Build our developer portal and project website with a focus on clarity and trust.
+  * Collaborate closely with the protocol engineer to define and consume contract interfaces.
+* **We look for:**
+  * Proficiency in React/Next.js, TypeScript, and modern frontend tooling.
+  * Experience with Web3 libraries (Wagmi/Viem, Ethers.js) and interacting with smart contracts.
+  * A strong eye for UI/UX design and the ability to translate complex mechanics into simple interfaces.
+  * Ownership over the entire frontend stack, from idea to deployed application.
+
+#### **Protocol Researcher (Economics/Game Theory)**
+**Your Mission:** Ensure the protocol's mechanisms are sound, incentive-aligned, and sustainable.
+* **You will:**
+  * Model, simulate, and refine the protocol's economic design and tokenomics.
+  * Analyze attack vectors and stress-test the system under various market conditions.
+  * Author and iterate on technical documentation, litepapers, and governance proposals.
+  * Research and design key parameters for the Stability Coefficient and defense lines.
+* **We look for:**
+  * Strong background in economics, game theory, computer science, or related fields.
+  * Experience with DeFi/crypto-economic modeling and simulation tools.
+  * Excellent written communication skills to articulate complex mechanisms clearly.
+  * A deep curiosity about market dynamics and a passion for systemic design.
+
+### 💎 How We Work & What We Offer
+* **Autonomy & Impact:** You will own your domain and see your work directly shape the ecosystem.
+* **Asynchronous & Remote-First:** We are globally distributed and focus on deep work.
+* **Resourceful & Lean:** We prioritize clever solutions over heavy spending.
+* **Compensation:** A competitive package weighted heavily in protocol tokens (subject to vesting), aligning our long-term success with yours.
+
+### ✨ How to Step Forward
+Does this sound like your next chapter?
+
+1. **Explore** our [GitHub Repository](#) and the open issues.
+2. **Reach Out:** Send an email to `[your-contact-email]` or message us on Twitter/Discord `[your-handle]`.
+   * **Subject:** `[Role Interest] - Your Name`
+   * **Include:** A brief intro, your LinkedIn/GitHub profile, and a short note on why BSSS resonates with you. For engineers: links to past projects or code you're proud of are worth a thousand words.
+
+**Let's build a more stable foundation for Web3, together.**
+
+---
+*Not seeing a perfect fit but passionate about the mission? We still want to hear from you. Tell us how you can contribute.*
 
 ### 🤝 How You Can Contribute
 We are actively looking for passionate builders, thinkers, and advocates to contribute in the following areas:
